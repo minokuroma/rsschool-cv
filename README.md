@@ -1,1 +1,1 @@
-# https://your-github-account.github.io/rsschool-cv/cv
+# https://minokuro.github.io/rsschool-cv/cv
