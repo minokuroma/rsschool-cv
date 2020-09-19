@@ -1,0 +1,86 @@
+body {
+	max-width: 1024px;
+	margin: 0 auto;
+	font-size: 16px;
+}
+
+.skill-list,
+.contact-list {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.name {
+	margin-bottom: 0;
+	color: #11154d;
+}
+
+h3 {
+	margin-top: 0;
+	color: #230e44;
+}
+
+.contacts,
+.skills,
+.experience-text,
+.code-example,
+.education,
+.english,
+.summary {
+	color: #0d1149;
+}
+
+.navigation {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+  padding: 10px;
+	font-size: 1.3rem;
+	color: #f0ecec;
+	background-color: #23113a;
+}
+
+
+footer {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	height: 100px;
+	color: #ffffff;
+	text-align: center;
+	font-size: 1.3rem;
+	background-color: #200d38;
+}
+
+table tr {
+	text-align: left;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table td, table th {
+	padding: 10px 20px 10px 0;
+	border-bottom: 1px solid #1f092e;
+}
+
+.site-link {
+	color: #1d0b3a;
+	font-weight: bold;
+}
+
+.site-link:hover {
+	color: #072920;
+}
+
+.container-for-parts {
+	display: flex;
+	justify-content: space-between;
+}
+
+.img-block {
+	display: flex;
+	justify-content: center;
+}
+
