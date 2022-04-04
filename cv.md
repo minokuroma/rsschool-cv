@@ -16,3 +16,21 @@ I spend a lot of time on self-study. Love to discover new things and improve mys
 - Web-development: HTML5, CSS3, JavaScript
 - Version control: Git, GitHub
 - Graphics: Figma
+
+## Code example
+
+```JavaScript
+
+function solution(number){
+    let count=0;
+  if(number>=0){
+  for(let i = 0; i<number; i++){
+  if (i%3==0 || i%5==0){
+    count += i;
+  }
+  }
+  }
+  return count
+}
+
+```
