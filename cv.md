@@ -34,3 +34,8 @@ function solution(number){
 }
 
 ```
+
+## Education
+
+- College: Multidisciplinary Humanitarian and Technical College (computing and software)
+- The educational center "Sanasoft" (junior Web-Developer)
